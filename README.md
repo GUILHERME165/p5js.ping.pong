@@ -2,4 +2,4 @@
 
 Nao conseguir colocar o projeto
 
-p5js.ping.pongestá licenciado sob CC BY 4.0© 1 por GUILHERME165 
+Este trabalho está licenciado sob CC BY 4.0. Para visualizar uma cópia desta licença, visite https://creativecommons.org/licenses/by/4.0/© 1 por G
